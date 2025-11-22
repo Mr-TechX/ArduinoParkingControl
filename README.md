@@ -1,5 +1,4 @@
 # ArduinoParkingControl
----
 ### Materiales
 - Arduino UNO
 - Sensor ultrasonico
@@ -7,4 +6,4 @@
 - servo motor
 - protoboard
 ---
-<img src="">
+<img src="https://github.com/Mr-TechX/ArduinoParkingControl/blob/main/circuit.png?raw=true">
